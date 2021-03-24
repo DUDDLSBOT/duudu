@@ -1,11 +1,11 @@
 const help = (prefix) => {
 	return `
 <══════════════════════>
-      *CAUSS BOT*
+      *DUDU BOT*
  <══════════════════════>
 
 __█████████  ● ᏴϴͲ●ᎷᎬΝႮ●         
-__█▄█████▄█   *DONO*    : CAUSS
+__█▄█████▄█   *DONO*    : DUDU
 __█▼▼▼▼▼█ 
 _██ᏴϴͲ Ꮩ3.8██▌ 
 __█▲▲▲▲▲█ 
@@ -15,9 +15,9 @@ ____██_____██
 ┌─────────❶.❷────────
 ║〘 INFORMAÇÕES 〙
 ║
-╠🐉 *CAUSS BOT* 
-╠🐉 𝐃𝐎𝐍𝐎:  ⃬⃗CAUSS (base dark) 
-╠🐉 *wa.me/+5547992091566*
+╠🐉 *DUDU BOT* 
+╠🐉 𝐃𝐎𝐍𝐎:  ⃬⃗DUDU (base dark) 
+╠🐉 *wa.me/+553186283462*
 ╠🐉 𝐒𝐓𝐀𝐓𝐔𝐒: ON
 ║
 ║
@@ -226,18 +226,18 @@ ____██_____██
 ║🐊 *gemidao*
 ║🐊 *musica*
 ║
-╠══🐰〘 CAUSS NO CONTROLE 〙🐰══
+╠══🐰〘 DUDU NO CONTROLE 〙🐰══
 ║
-║ *NOME: CAUSS*
+║ *NOME: DUDU*
 ║ *INSTA: animexx_png*
-║ *WPP: wa.me/+5547992091566*
+║ *WPP: wa.me/+553186283462*
 ║ *YOUTUBE: https://youtube.com/c/caussZ*
 ║
 ║  *"base do lindo (DARK BOT 4.0)🐊🚩*
 ║  *"kiba não xereka"*
 ║  *Número do dark: wa.me/+5522996215481
 ║
-╚═〘 CAUSS BOT 〙`
+╚═〘 DUDU BOT 〙`
 }
 
 exports.help = help
